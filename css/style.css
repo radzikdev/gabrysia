@@ -9,3 +9,10 @@ body {
 .feature-desc {
     font-size: 18px;
 }
+
+a:link {
+    color: red;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
